@@ -1,4 +1,4 @@
-#Getting Started
+## Getting Started
 
 To start this project please go to Datastax to sign up for a free database.
 
