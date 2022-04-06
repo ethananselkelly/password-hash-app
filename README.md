@@ -21,4 +21,6 @@ You will also see any lint errors in the console.
 
 To learn React, check out the React documentation.
 
-I followed along with Ania Kubow's tutorial at https://www.youtube.com/watch?v=KPplWOCZd5A&t=555s&ab_channel=CodewithAniaKub%C3%B3w
+I followed along with Ania Kubow's tutorial at https://www.youtube.com/watch?v=KPplWOCZd5A&t=555s&ab_channel=CodewithAniaKub%C3%B3w.
+
+This was an exercise for me to learn more about password security.
